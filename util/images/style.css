@@ -26,6 +26,7 @@ form { margin: 0; }
 input.search { width: 122px; height: 15px; border: 1px dashed #46574D; background: #FFF; padding: 3px; color: #616161; }
 input.submit { width: 28px; height: 20px; font-weight: bold; border: none; background: #FFF; padding: 3px; color: #616161; }
 
+#more {display: none;}
 
 
 .content { 
@@ -142,6 +143,7 @@ input.submit { width: 28px; height: 20px; font-weight: bold; border: none; backg
 
 .text_padding {
 	padding: 15px 0 0 0;
+	font: normal 1.2em Arial, sans-serif;
 }
 
 .main_content h2 {
