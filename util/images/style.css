@@ -6,20 +6,13 @@ StyleSheet for BinaryNews Template
 
 body {
  background-color: #FFF;
- color: #FFF; font: 0.8em Arial, sans-serif; line-height: 1.5em;
+ color: #FFF; font-family: Arial, sans-serif; line-height: 1.5;
 }
 
 a { color: #46574D; background: inherit; }
 a:hover { color: #647B6D; background: inherit;}
 
-h1 { font: bold 2em Arial, Sans-Serif;}
-h2 { font: normal 1.6em Arial, Sans-Serif; }
-h3 { font: 90% Arial, Sans-Serif;  color: #46574D; background: #FFF; }
-p {	line-height: 1.5em; }
-
-
 #more {display: none;}
-
 
 .content { 
     background: #FFF; 
@@ -48,17 +41,14 @@ p {	line-height: 1.5em; }
 #nav #current { background: #cecece; color: #555; }
 #nav #current a { background: #cecece; color:#FFF; }
 #nav a:hover { color:#555; background: #aeaeae; }
-/*#nav .padding { padding:5px 10px 5px 10px; font-weight: bold; }*/
-
 
 .main_content {
 	background: #FFF;
 	background-color: #FFF;
 }
 
-
 .fa {
-  padding: 2%;
+  padding: 1%;
   text-decoration: none;
   border-radius: 50%;
 }
