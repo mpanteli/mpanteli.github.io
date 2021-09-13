@@ -12,7 +12,9 @@ body {
 a { color: #46574D; background: inherit; }
 a:hover { color: #647B6D; background: inherit;}
 
-#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
 
 .content { 
     background: #FFF; 
